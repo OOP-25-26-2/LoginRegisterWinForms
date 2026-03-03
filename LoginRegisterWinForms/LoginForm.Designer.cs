@@ -67,7 +67,6 @@
             txtPassword.Name = "txtPassword";
             txtPassword.Size = new Size(159, 23);
             txtPassword.TabIndex = 3;
-            txtPassword.UseSystemPasswordChar = true;
             // 
             // btnLogin
             // 
@@ -94,7 +93,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(551, 340);
             Controls.Add(lnkCreateAccount);
             Controls.Add(btnLogin);
             Controls.Add(txtPassword);
