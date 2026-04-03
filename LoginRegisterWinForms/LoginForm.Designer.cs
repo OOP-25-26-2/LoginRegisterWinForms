@@ -67,7 +67,6 @@
             txtPassword.Name = "txtPassword";
             txtPassword.Size = new Size(159, 23);
             txtPassword.TabIndex = 3;
-            txtPassword.UseSystemPasswordChar = true;
             // 
             // btnLogin
             // 
